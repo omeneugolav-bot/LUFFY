@@ -55,7 +55,7 @@ LUFFY/
 - **FSDP Training**: Model loading and distributed training setup
 - **Data Processing**: Basic batch dimension fold/unfold implemented, needs memory and performance optimizations
 
-## 📝 Complete TODO List
+### 📝 Complete TODO List
 
 *Total TODO items: 242*
 
